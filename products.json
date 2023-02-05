@@ -1,0 +1,67 @@
+[
+    {
+        "name": "iphone13",
+        "price": 50000 ,
+        "rating": 4.2,
+        "company": "apple"
+    },
+    {
+        "name": "Zfold",
+        "price": 40000 ,
+        "rating": 4.5,
+        "company": "Samsung"
+    },
+    {
+        "name": "Galaxy S10",
+        "price": 21000 ,
+        "rating": 4.6,
+        "company": "Samsung"
+    },
+    {
+        "name": "Vivo y16",
+        "price": 16000 ,
+        "feature": true,
+        "rating": 4.0,
+        "company": "Vivo"
+    },
+    {
+        "name": "Vivo y75",
+        "price": 16750 ,
+        "feature": true,
+        "rating": 4.6,
+        "company": "Vivo"
+    },
+    {
+        "name": "Galaxy S20",
+        "price": 56000 ,
+        "rating": 4.8,
+        "company": "Samsung"
+    },
+    {
+        "name": "Dell Inspiron 16",
+        "price": 73500 ,
+        "rating": 4.8,
+        "company": "Dell"
+    },
+    {
+        "name": "Dell Inspiron 14",
+        "price": 65000 ,
+        "rating": 4.3,
+        "company": "Dell"
+    },
+    {
+        "name": "Hp 15 ",
+        "price": 39000 ,
+        "feature": true,
+        "rating": 4.2,
+        "company": "Hp"
+    },
+    {
+        "name": "Hp 14 Pavilion",
+        "price": 69990 ,
+        "feature": true,
+        "rating": 4.2,
+        "company": "Hp"
+    }
+    
+]
